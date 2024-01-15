@@ -1,0 +1,21 @@
+title: Designer Byeonsungmin Portfolio
+author: Byeon sungmin
+email: e2yser@naver.com
+description:
+  저의 디자이너로서의 미덕은 단순히 눈에 띄는 아름다움뿐만 아니라, 관람자가 한 번은 물론이고 두 번, 세 번이라도 마음 깊게 감상하고 싶어지는 디자인을 추구하는 데에 있습니다.
+  일상에서 소중한 순간들을 아름답게 표현하고, 강렬한 메시지와 함께 깊은 감동을 전달하는 작업을 통해, 예술적인 창의성을 펼치며 끊임없는 성장을 추구하고 있습니다.
+social:
+  facebook:
+  instagram:
+  github: 
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
